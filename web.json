@@ -1,41 +1,21 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
   "members" : [
     {
-      "name" : "gangtexia 钢铁侠",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
+        "temaName" : "RNG",
+        "location" : "上海",
+        "time" : 2016,
+        "main":皇族英雄联盟分部取得2013年、2014年英雄联盟全球总决赛亚军，2016年LPL春季赛冠军，2017年德玛西亚杯长沙站冠军，2018年LPL春季赛冠军、MSI季中邀请赛冠军及德玛西亚杯夏季赛冠军。
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
+      "temaName" : "RNG",
+        "location" : "上海",
+        "time" : 2016,
+        "main":皇族英雄联盟分部取得2013年、2014年英雄联盟全球总决赛亚军，2016年LPL春季赛冠军，2017年德玛西亚杯长沙站冠军，2018年LPL春季赛冠军、MSI季中邀请赛冠军及德玛西亚杯夏季赛冠军。
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
+     "temaName" : "RNG",
+        "location" : "上海",
+        "time" : 2016,
+        "main":皇族英雄联盟分部取得2013年、2014年英雄联盟全球总决赛亚军，2016年LPL春季赛冠军，2017年德玛西亚杯长沙站冠军，2018年LPL春季赛冠军、MSI季中邀请赛冠军及德玛西亚杯夏季赛冠军。
     }
-  ]
 }
